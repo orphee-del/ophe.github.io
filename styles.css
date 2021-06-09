@@ -1,0 +1,367 @@
+/* barre 1 du debut*/
+#bande .mots{
+	float: left;
+	margin-left: 90px;
+	color: white;
+	
+}
+/*lago de facebook et twitter*/
+#bande img{
+        float: right;
+        margin-left: 50px;
+        
+}
+
+/*couleur pour la baniere1*/
+#bande{
+	background-color: green;
+	width: 100%;
+	height: 70px;
+  
+}
+  /* le deuxiéme caree ou bande 2*/
+
+  #bandetwo .phaseuno{
+  	   color: white;
+  	   margin-left: 35px;
+  	   text-transform: uppercase;
+       font-family: cooper Black;
+
+  }
+  #bandetwo .phase{
+  	        margin-left: 90px;
+  	        padding-top: 95px;
+  	        text-transform: uppercase;
+            color: #cccc66;
+            font-family: franklin gothic;
+  }
+  #bandetwo .titre{
+           font-family: stencil;
+  	        font-size: 60px;
+  	        margin-left: 90px;
+  	        margin-top: 1px;
+            color: #cccc66;
+ }
+ #bandetwo p{
+         font-family: century schoolbook;
+ 	     margin-left: 90px;
+       color: gold;
+ }
+ #bandetwo button{
+         text-transform: uppercase;
+ 	     margin-left: 90px;
+ 	     color: black;
+ 	     background-image: url("rocher.JPG");
+ 	     width: 16%;
+ 	     height: 79px;
+         border-color: chocolate;
+ }
+ /*le munus les differentes propriétés*/
+ #bandetwo ul li{
+ 	       display: block;
+ 	       float: right;
+           margin-top: 15px;
+ 	       margin-left: 30px;
+         position: relative;
+}
+
+ #bandetwo ul li a:hover{
+ 	            color: red;
+ 	            line-height: 50px;
+ }
+ #bandetwo{
+ 	  background-image: url("rocher.jpg");  
+     overflow: hidden;
+ }
+ /*la barre 3 ou la bande 3*/
+
+ .banner3 button{
+    margin-top: 29px;
+     float: right;
+     background-color: royalblue;
+     color: white;
+     margin-top: 90Qpx;
+      border-radius: 25px;
+ }
+ .banner3 .bobo{
+          font-family: arial;
+          text-transform: uppercase;
+          margin-left: 50px;
+          color: white;
+          padding-bottom: 95px;
+          text-align: left;
+ }
+ .banner3 .bobo em{
+          text-transform: lowercase;
+ }
+  /*arriére plan de banner3 couleur*/
+
+  .banner3{
+      background-color: green;
+      width: 100%;
+      height: 80px;
+      overflow: hidden;
+  }
+ 
+/*element de la section 2 début*/
+ 
+ #section2 .financial{
+         text-align: center;
+         font-size: 50px;
+         font-family: broadway;
+ }
+ #section2 span{
+       color: crimson;
+       font-family: delaney;
+ }
+ #section2 h5{
+    font-family: ecuyer dax;
+  text-align: center;
+ margin-top: 1px;
+  font-size: 20px;
+ }
+ /*le tableau avec les images*/
+ #images div{
+    border-style: ridge;
+     float: left;
+     margin: 30px;
+     background-color: lightgray;
+     
+ }
+ #images button{
+     background-color: green;
+     color: white;
+     margin-left: 18px;
+     border-radius: 25px;
+ }
+ #images img{
+         width: 370px;
+         height: 190px;
+ }
+ #images p{
+       border-style: double;
+       text-align: center;
+ }
+
+ #partie strong {
+         font-size: 40px;
+         color: gold;
+         margin-left: 50px;
+ }
+ #partie mark{
+              color: green;
+              margin-left: 60px;
+              font-size: 25px;
+              text-decoration: none;
+  }
+  #partie .dos{
+       margin-left: 50px;
+  }
+ #partie button{
+     margin-left: 50px;
+     background-color: green;
+     color: white;
+      border-radius: 25px;
+ }
+ #partie .lolo{
+           opacity: 1;
+          text-align: center;
+          width:11%;
+          height: 100%;
+        background-color: black;
+        float: right;
+        margin: 20px;
+        display: table-column-group;/*les colonnes à aligner*/
+ }
+
+ #partie .lolo{
+         font-family: impact;
+         color: green;
+         font-size: 20px;
+ }
+
+ #partie .lolo span{
+               font-family: rodrix;
+                color: white;
+                font-size: 25px;
+ }
+
+ /*arriére plan partie*/
+ #partie{
+      background-image: url("nous.JPG");
+      
+ }
+
+#koko section{
+     font-family: britannic;
+      display: inline-block;
+       margin: 80px;
+       background-color: ghostwhite;
+       
+
+}
+#koko section .vida{
+      font-size: 50px;
+     float: right;
+}
+#koko section button{
+          background-color: black;
+          color: gold;
+           border-radius: 25px;
+}
+#koko{
+      background-color: ghostwhite;
+}
+.seins h1{
+        padding-top: 30px;
+        text-align: center;
+        font-size: 40px;
+}
+
+.seins{
+    
+      background-color: gray;
+}
+.seins .sentence{
+     padding-bottom: 30px;
+      text-align: center;
+      color: yellowgreen;
+      text-transform: uppercase;
+}
+.maya{
+    float: left;
+    margin-left: 150px;
+    background-color: lightgray;
+    width: 33%;
+}
+.maya .father{
+             text-align: center;
+             font-weight: bold;
+             font-size: 29px;
+}
+.maya .gogo{
+
+        color: red;
+        margin-left: 150px;
+}
+
+.maya .volvo{
+          text-align: center;
+        font-weight: bold;
+        font-size: 29px;
+
+}
+.maya span{
+       margin-left: 150px;
+       color: red;
+}
+.maya .kaka{
+    text-align: center;
+}
+.maya .tete{
+
+    text-align: center;
+}
+#le_form{
+    font-size: 40px;
+    text-align: center;
+    padding-bottom: 23px;
+}
+#le_form .marie{
+         text-transform: lowercase;
+         font-size: 20px ;
+}
+
+#ronaldo{
+     background-color:
+     border-style: dashed; 
+}
+#ronaldo input{
+     margin-left: 90px;
+     border-radius: 25px;
+     width: 27%;
+     height: 29px;
+}
+#ronaldo .champ{
+    text-align: center;
+    margin-top: -50px;
+}
+#ronaldo .entrer{
+    text-align: right;
+     margin-top: -50px;
+}
+#ronaldo textarea{
+     margin-left: 279px;
+     width: 69%;
+     height: 79px;
+     margin-right: 90px;
+     border-radius: 28px;
+     text-align: center;
+}
+
+#ronaldo button{
+    margin-top: 39px;
+     border-radius: 26px;
+     background-color: purple;
+     color: red;
+     text-align: center;
+     width: 15%;
+     height: 35px;
+     border-color: white;
+ }
+
+ .buddy img{
+
+     width: 100%;
+     height: 79px;
+ }
+   /* l'avant derniere banniere avec les icones des réseau*/
+
+
+.fuck p{
+    color: white;
+    float: left;
+    margin-left: 139px;
+    font-size: 22px;
+}
+/*l'avant derniere bande noir du site*/
+
+div {
+     text-align: center;
+     background-color: lightgreen;/* LA ICI*/
+}
+div h2{
+    color: red;
+    text-align: center;
+}
+div input{
+    background-color: green;
+    color: black;
+    border-color: chocolate;
+    border-redius: 20px;
+    width: 15%;
+    height: 25px;
+}
+div textarea{
+    color: gray;
+ background-color: green;
+}
+div button{
+    background-color: purple;
+    color: white;
+}
+ 
+ footer{
+      overflow: hidden;
+      background-color: gray;
+      height: 78px;
+ }
+footer .pied{
+    text-transform: uppercase;
+    text-align: center;
+    font-family: arial;
+    margin-top: 20px;
+    font-size: 22px;
+    color: #ffcc00;
+   
+}
